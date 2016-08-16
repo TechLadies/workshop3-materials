@@ -9,8 +9,8 @@ Please go through the instructions here: [https://github.com/huijing/guess-the-n
 You can find the slides here: [https://www.chenhuijing.com/slides/tl-workshop-2/#/](https://www.chenhuijing.com/slides/tl-workshop-2/#/)
 
 Additional learning resources:
-[https://www.codecademy.com/learn/web](https://www.codecademy.com/learn/web)
-[https://www.udacity.com/course/intro-to-html-and-css--ud304](https://www.udacity.com/course/intro-to-html-and-css--ud304)
+* [https://www.codecademy.com/learn/web](https://www.codecademy.com/learn/web)
+* [https://www.udacity.com/course/intro-to-html-and-css--ud304](https://www.udacity.com/course/intro-to-html-and-css--ud304)
 
 ## Now don't ignore this. 
 This section assumes that you have set up all that is needed from workshop #1 and #2 mentioned above. You must have [Nitrous](https://www.nitrous.io/) (if VM does not work on your laptop), [GitHub](https://github.com) and [Heroku](https://www.heroku.com) accounts created.
@@ -21,8 +21,8 @@ For workshop #3, you will need to follow the steps on Nitrous. If VM works on yo
 2. Name your project, and choose the **Ruby on Rails** template, then click the Create Project button. This will take some time to complete.
 
 Additional resources (optional):
-[Deploying to Heroku with Git](https://www.youtube.com/watch?v=5kVtmnZNC8w)
-[https://devcenter.heroku.com/articles/git](https://devcenter.heroku.com/articles/git)
-[https://www.codeschool.com/courses/rails-for-zombies-redux](https://www.codeschool.com/courses/rails-for-zombies-redux)
-[https://www.codecademy.com/learn/learn-rails](https://www.codecademy.com/learn/learn-rails)
+* [Deploying to Heroku with Git](https://www.youtube.com/watch?v=5kVtmnZNC8w)
+* [https://devcenter.heroku.com/articles/git](https://devcenter.heroku.com/articles/git)
+* [https://www.codeschool.com/courses/rails-for-zombies-redux](https://www.codeschool.com/courses/rails-for-zombies-redux)
+* [https://www.codecademy.com/learn/learn-rails](https://www.codecademy.com/learn/learn-rails)
 
