@@ -8,6 +8,8 @@ Please go through the instructions here: [https://github.com/huijing/guess-the-n
 
 You can find the slides here: [https://www.chenhuijing.com/slides/tl-workshop-2/#/](https://www.chenhuijing.com/slides/tl-workshop-2/#/)
 
+Workshop recording: [https://www.youtube.com/watch?v=9wVrWhcgToQ](https://www.youtube.com/watch?v=9wVrWhcgToQ) 
+
 Additional learning resources:
 * [https://www.codecademy.com/learn/web](https://www.codecademy.com/learn/web)
 * [https://www.udacity.com/course/intro-to-html-and-css--ud304](https://www.udacity.com/course/intro-to-html-and-css--ud304)
