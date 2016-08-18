@@ -17,8 +17,11 @@ This section assumes that you have set up all that is needed from workshop #1 an
 
 For workshop #3, you will need to follow the steps on Nitrous. If VM works on your machine, you do not need to do this. 
 
-1. Click on the Dashboard link in the top left corner to return to the Dashboard, then click on the Plus icon to create a new project.
-2. Name your project, and choose the **Ruby on Rails** template, then click the Create Project button. This will take some time to complete.
+1. If you have an existing workspace on Nitrous, you need to delete it. (Note: Do remember to push your source code to a public Github repository before you delete your workspace!)
+2. Click on the Dashboard link in the top left corner to return to the Dashboard, then click on the Plus icon to create a new project.
+3. Name your project, and choose the **Ruby on Rails** template, then click the Create Project button. This will take some time to complete.
+
+Here is the link to the workshop slides (it's not completed yet, so download or refer to the slides on Sat): [https://docs.google.com/presentation/d/1w5xvd_yRqrVB5ciY_PaH-nyTscoTzu9OX1o62nAOAkU/edit#slide=id.g163d66ef44_0_317](https://docs.google.com/presentation/d/1w5xvd_yRqrVB5ciY_PaH-nyTscoTzu9OX1o62nAOAkU/edit#slide=id.g163d66ef44_0_317)
 
 Additional resources (optional):
 * [Deploying to Heroku with Git](https://www.youtube.com/watch?v=5kVtmnZNC8w)
