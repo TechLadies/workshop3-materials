@@ -2,6 +2,7 @@
 
 ## Workshop #1 materials - Ignore this if you have attended workshop #1
 Please go through the materials covered in workshop #1: [https://github.com/TechLadies/workshop-1-materials](https://github.com/TechLadies/workshop-1-materials)
+
 Workshop recording: [https://www.youtube.com/watch?v=ktsF_Jcr3yY](https://www.youtube.com/watch?v=ktsF_Jcr3yY) 
 
 ## Workshop #2 materials - Ignore this if you have attended workshop #2
